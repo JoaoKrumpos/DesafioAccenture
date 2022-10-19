@@ -1,0 +1,9 @@
+page\EnterProductDataPage.class
+page\SendQuotePage.class
+steps\DesafioSteps.class
+runner\RunTests.class
+page\EnterInsurantDataPage.class
+page\EnterVechileDataPage.class
+support\ScreenshotUtils.class
+page\SelectPriceOptionPage.class
+runner\RunBaseTests.class
